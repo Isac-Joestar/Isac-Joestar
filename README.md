@@ -8,8 +8,12 @@
 ![nextjs](https://img.shields.io/badge/-NextJS-2d333b?style=for-the-badge&logo=next.js)
 ![vercel](https://img.shields.io/badge/-Vercel-2d333b?style=for-the-badge&logo=vercel)
 
-## Social Links
+## Github Analytics
+<p text-align="left" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Isac-Joestar&theme=dracula"/>
+</p>
 
+## Social Links
 <p text-align="left" >
   <a href="https://www.linkedin.com/in/isac-mikael-826396258/" target="_blank">
      <img src="https://img.shields.io/badge/-Linkedin-2d333b?style=for-the-badge&logo=linkedin"/>
@@ -24,12 +28,4 @@
      <img src="https://img.shields.io/badge/-portfolio-2d333b?style=for-the-badge"/>
   </a>
 </p>
-
-
-
-## Github Analytics
-<p text-align="left" >
-<img  src="https://github-readme-stats.vercel.app/api?username=Isac-Joestar&theme=dracula"/>
-</p>
-
  
