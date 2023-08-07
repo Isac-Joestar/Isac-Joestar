@@ -6,7 +6,6 @@
 ![css](https://img.shields.io/badge/-CSS-2d333b?style=for-the-badge&logo=css3)
 ![react](https://img.shields.io/badge/-React-2d333b?style=for-the-badge&logo=react)
 ![nextjs](https://img.shields.io/badge/-NextJS-2d333b?style=for-the-badge&logo=next.js)
-![githubactions](https://img.shields.io/badge/-Github%20Actions-2d333b?style=for-the-badge&logo=github-actions)
 ![vercel](https://img.shields.io/badge/-Vercel-2d333b?style=for-the-badge&logo=vercel)
 
 ## Social Links
@@ -25,3 +24,12 @@
      <img src="https://img.shields.io/badge/-portfolio-2d333b?style=for-the-badge"/>
   </a>
 </p>
+
+
+
+## Github Analytics
+<p text-align="left" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Isac-Joestar&theme=dracula"/>
+</p>
+
+ 
