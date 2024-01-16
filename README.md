@@ -21,7 +21,7 @@
   <a href="https://discord.gg/9Y9nbSRqd9" target="_blank">
      <img src="https://img.shields.io/badge/-Discord-2d333b?style=for-the-badge&logo=discord"/>
   </a>
-  <a href="https://www.instagram.com/dev.joestar/" target="_blank">
+  <a href="https://www.instagram.com/joestar.code/" target="_blank">
      <img src="https://img.shields.io/badge/-instagram-2d333b?style=for-the-badge&logo=instagram"/>
   </a>
   <a href="https://portfolio-joestar.vercel.app/" target="_blank">
