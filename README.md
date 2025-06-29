@@ -16,15 +16,15 @@
 
 ## Social Links
 <p text-align="left" >
-  <a href="https://www.linkedin.com/in/isac-mikael-826396258/" target="_blank">
+  <a href="https://www.linkedin.com/in/isac-mikael-914b2a191/" target="_blank">
      <img src="https://img.shields.io/badge/-Linkedin-2d333b?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://discord.gg/9Y9nbSRqd9" target="_blank">
+<!--   <a href="https://discord.gg/9Y9nbSRqd9" target="_blank">
      <img src="https://img.shields.io/badge/-Discord-2d333b?style=for-the-badge&logo=discord"/>
-  </a>
-  <a href="https://www.instagram.com/joestar.code/" target="_blank">
+  </a> -->
+<!--   <a href="https://www.instagram.com/joestar.code/" target="_blank">
      <img src="https://img.shields.io/badge/-instagram-2d333b?style=for-the-badge&logo=instagram"/>
-  </a>
+  </a> -->
   <a href="https://portfolio-joestar.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/-portfolio-2d333b?style=for-the-badge"/>
   </a>
