@@ -7,6 +7,9 @@
 ![css](https://img.shields.io/badge/-CSS-2d333b?style=for-the-badge&logo=css3)
 ![react](https://img.shields.io/badge/-React-2d333b?style=for-the-badge&logo=react)
 ![nextjs](https://img.shields.io/badge/-NextJS-2d333b?style=for-the-badge&logo=next.js)
+![nodejs](https://img.shields.io/badge/-NodeJS-2d333b?style=for-the-badge&logo=node.js)
+![mongodb](https://img.shields.io/badge/-MongoDB-2d333b?style=for-the-badge&logo=mongodb)
+![styledcomponents](https://img.shields.io/badge/-Styled%20Components-2d333b?style=for-the-badge&logo=styled-components)
 ![vercel](https://img.shields.io/badge/-Vercel-2d333b?style=for-the-badge&logo=vercel)
 
 ## Github Analytics
@@ -25,7 +28,7 @@
 <!--   <a href="https://www.instagram.com/joestar.code/" target="_blank">
      <img src="https://img.shields.io/badge/-instagram-2d333b?style=for-the-badge&logo=instagram"/>
   </a> -->
-  <a href="https://portfolio-joestar.vercel.app/" target="_blank">
+  <a href="https://joestar-code.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/-portfolio-2d333b?style=for-the-badge"/>
   </a>
 </p>
