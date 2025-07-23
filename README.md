@@ -11,7 +11,7 @@
 ![mongodb](https://img.shields.io/badge/-MongoDB-2d333b?style=for-the-badge&logo=mongodb)
 ![styledcomponents](https://img.shields.io/badge/-Styled%20Components-2d333b?style=for-the-badge&logo=styled-components)
 ![vercel](https://img.shields.io/badge/-Vercel-2d333b?style=for-the-badge&logo=vercel)
-![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker)
 
 ## Github Analytics
 <p text-align="left" >
