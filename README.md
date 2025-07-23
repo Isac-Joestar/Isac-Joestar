@@ -12,7 +12,7 @@
 ![styledcomponents](https://img.shields.io/badge/-Styled%20Components-2d333b?style=for-the-badge&logo=styled-components)
 ![vercel](https://img.shields.io/badge/-Vercel-2d333b?style=for-the-badge&logo=vercel)
 ![docker](https://img.shields.io/badge/Docker-2d333b?style=for-the-badge&logo=docker)
-![prisma](https://img.shields.io/badge/Prisma-2d333b?style=for-the-badge&logo=Prisma&logo)
+![prisma](https://img.shields.io/badge/Prisma-2d333b?style=for-the-badge&logo=Prisma)
 
 ## Github Analytics
 <p text-align="left" >
