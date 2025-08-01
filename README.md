@@ -13,6 +13,8 @@
 ![vercel](https://img.shields.io/badge/-Vercel-2d333b?style=for-the-badge&logo=vercel)
 ![docker](https://img.shields.io/badge/Docker-2d333b?style=for-the-badge&logo=docker)
 ![prisma](https://img.shields.io/badge/Prisma-2d333b?style=for-the-badge&logo=Prisma)
+![eslint](https://img.shields.io/badge/eslint-2d333b?style=for-the-badge&logo=eslint)
+![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-2d333b?style=for-the-badge&logo=tailwind-css)
 
 ## Github Analytics
 <p text-align="left" >
